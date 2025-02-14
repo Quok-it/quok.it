@@ -62,7 +62,7 @@ export const Navbar = () => {
                   : "text-white hover:text-red-500"
               }`}
             >
-              Contact
+              About
             </Link>
             <Link
               href="https://twitter.com/quok_it"
@@ -138,7 +138,7 @@ export const Navbar = () => {
                 className="px-4 py-2 text-white hover:text-red-500 transition-colors"
                 onClick={() => setIsMenuOpen(false)}
               >
-                Contact
+                About
               </Link>
               <Link
                 href="https://twitter.com/quok_it"
